@@ -1,7 +1,7 @@
 # 👋 Olá, bom te ver por aqui! ❤
 
 <div>
-  <img src="hugo-gif.gif" alt="hugo-gif" width="21%" align="right" style="border_radius= 100%" />
+  <img src="hugo-gif.gif" alt="hugo-gif" width="21%" align="right" />
   
   ### Sobre mim:
 
@@ -29,10 +29,10 @@
 <div align="center">
   <a href="https://github.com/HugoRamosC">
   <img height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=HugoRamosC&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"
+    src="https://github-readme-stats.vercel.app/api?username=HugoRamosC&show_icons=true&theme=gotham&include_all_commits=true&count_private=true&locale=pt-br&border_radius=30"
   />
   <img height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=HugoRamosC&layout=compact&langs_count=7&theme=gotham"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=HugoRamosC&layout=compact&langs_count=7&theme=gotham&locale=pt-br&border_radius=20&card_width=200"
   />
 </div>
 
