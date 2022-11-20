@@ -1,7 +1,14 @@
-# 👋 Olá, bom te ver por aqui! ❤
-
 <div>
-  <img src="hugo-gif.gif" alt="hugo-gif" width="21%" align="right" />
+
+  # 👋 Olá, bom te ver por aqui! ❤
+
+  <img src="hugo-gif.gif" alt="hugo-gif" width="25%" align="right" />
+  <div>
+    <a href = "mailto:dev.hugoramos@gmail.com"><img
+      src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+    <a href = "https://www.linkedin.com/in/hugo-ramos-dev"> <img
+      src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  </div>
   
   ### Sobre mim:
 
@@ -26,21 +33,13 @@
 
 ---
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/HugoRamosC">
-  <img height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=HugoRamosC&show_icons=true&theme=gotham&include_all_commits=true&count_private=true&locale=pt-br&border_radius=30&card_width=400"
+ <img height = "200em"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=HugoRamosC&show_icons=true&theme=gotham&count_private=true&locale=pt-br&border_radius=30"
   />
-  <img height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=HugoRamosC&layout=compact&langs_count=7&theme=gotham&locale=pt-br&border_radius=20&card_width=200"
+  <img height="200em"
+    src="https://github-readme-stats.vercel.app/api?username=HugoRamosC&show_icons=true&theme=gotham&include_all_commits=true&count_private=true&locale=pt-br&border_radius=30"
   />
-</div>
-
-### Contato:
-
-<div>
-  <a href = "mailto:dev.hugoramos@gmail.com"><img
-    src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href = "https://www.linkedin.com/in/hugo-ramos-dev"> <img
-    src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
 </div>
