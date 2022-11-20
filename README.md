@@ -29,7 +29,7 @@
 <div align="center">
   <a href="https://github.com/HugoRamosC">
   <img height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=HugoRamosC&show_icons=true&theme=gotham&include_all_commits=true&count_private=true&locale=pt-br&border_radius=30"
+    src="https://github-readme-stats.vercel.app/api?username=HugoRamosC&show_icons=true&theme=gotham&include_all_commits=true&count_private=true&locale=pt-br&border_radius=30&card_width=400"
   />
   <img height="180em"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=HugoRamosC&layout=compact&langs_count=7&theme=gotham&locale=pt-br&border_radius=20&card_width=200"
