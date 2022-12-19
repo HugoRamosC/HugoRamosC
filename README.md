@@ -36,10 +36,10 @@
 <div align="left">
   <a href="https://github.com/HugoRamosC">
  <img height = "200em"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=HugoRamosC&show_icons=true&theme=gotham&count_private=true&locale=pt-br&border_radius=30"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=HugoRamosC&show_icons=true&theme=transparent&count_private=true&locale=pt-br&border_radius=30"
   />
   <img height="200em"
-    src="https://github-readme-stats.vercel.app/api?username=HugoRamosC&show_icons=true&theme=gotham&include_all_commits=true&count_private=true&locale=pt-br&border_radius=30"
+    src="https://github-readme-stats.vercel.app/api?username=HugoRamosC&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&locale=pt-br&border_radius=30"
   />
  
 </div>
