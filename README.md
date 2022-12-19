@@ -12,10 +12,14 @@
   
   ### Sobre mim:
 
-  - 🪪 Me chamo Hugo Ramos, tenho 33 anos e sou casado.
-  - 🏡 Moro em São Pedro da Serra, Nova Friburgo-RJ.
-  - 💻 Atualmente estudo desenvolvimento Web (Full Stack) na [Trybe](https://www.betrybe.com/).
-
+  <ul> 
+    <li>🪪 Me chamo Hugo Ramos, tenho 33 anos e sou casado.</li>
+    <li>🏡 Moro em São Pedro da Serra, Nova Friburgo-RJ.</li>
+    <li>💻 Atualmente estudo desenvolvimento Web (Full Stack) na
+      <a href="https://www.betrybe.com/" target="_blank" rel="noopener noreferrer">Trybe</a>, onde j[a conclui:<br>
+        - <a href="https://www.credential.net/8b410749-7309-40ec-94d2-3198514a7935#gs.litxqj" target="_blank" rel="noopener noreferrer">Módulo de Fundamentos</a>
+    </li>
+  </ul>
 
   <div style="display: inline_block"><br>
    <a href="https://www.google.com/search?q=javascript" target="_blank">
