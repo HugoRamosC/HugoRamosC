@@ -15,15 +15,14 @@
   <ul> 
     <li>🪪 Me chamo Hugo Ramos, tenho 33 anos e sou casado.</li>
     <li>🏡 Moro em São Pedro da Serra, Nova Friburgo-RJ.</li>
-    <li>💻 Atualmente estudo desenvolvimento Web (Full Stack) na
-      <a href="https://www.betrybe.com/" target="_blank" rel="noopener noreferrer">Trybe</a>, onde já conclui:<br>
-        - <a href="https://www.credential.net/8b410749-7309-40ec-94d2-3198514a7935#gs.litxqj" target="_blank" rel="noopener noreferrer">Módulo de Fundamentos</a>
-        - [Módulo de Fundamentos]("https://www.credential.net/8b410749-7309-40ec-94d2-3198514a7935#gs.litxqj")
+    <li>💻 Atualmente estudo desenvolvimento Web (Full Stack) na <a href="https://www.betrybe.com/">Trybe</a>, onde já conclui:<br>
+        <a href="https://www.credential.net/8b410749-7309-40ec-94d2-3198514a7935#gs.litxqj">- Módulo de Fundamentos 🥇</a><br>
+        <a href="">- Módulo de Front-End 🥇</a><br>
     </li>
   </ul>
 
   <div style="display: inline_block"><br>
-   <a href="https://www.google.com/search?q=javascript" target="_blank">
+   <a href="https://www.google.com/search?q=javascript">
      <img align="center" alt="Icon-Js" height="30" width="40"
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a>
    <img align="center" alt="Icon-HTML" height="30" width="40"
@@ -34,6 +33,15 @@
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
    <img align="center" alt="Icon-Redux" height="30" width="40"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
+   <a href="https://www.google.com/search?q=jest">
+     <img align="center" alt="Icon-Jest" height="30" width="40"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"></a>
+   <a href="https://www.google.com/search?q=trello">
+     <img align="center" alt="Icon-Jest" height="30" width="40"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" ></a>
+   <a href="https://www.google.com/search?q=slack">
+     <img align="center" alt="Icon-Jest" height="30" width="40"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" ></a>
   </div>
  </div>
 
