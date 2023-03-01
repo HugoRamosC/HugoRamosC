@@ -57,7 +57,7 @@
 
 ---
 
-<div align="left">
+<div align="center">
   <a href="https://github.com/HugoRamosC">
  <img height = "150em"
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=HugoRamosC&show_icons=true&theme=transparent&count_private=true&locale=pt-br&border_radius=30"
