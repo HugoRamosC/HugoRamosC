@@ -59,10 +59,10 @@
 
 <div align="left">
   <a href="https://github.com/HugoRamosC">
- <img height = "200em"
+ <img height = "150em"
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=HugoRamosC&show_icons=true&theme=transparent&count_private=true&locale=pt-br&border_radius=30"
   />
-  <img height="200em"
+  <img height="150em"
     src="https://github-readme-stats.vercel.app/api?username=HugoRamosC&show_icons=true&theme=transparent&include_all_commits=false&count_private=true&locale=pt-br&border_radius=30"
   />
  
