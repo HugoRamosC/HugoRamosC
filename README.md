@@ -1,4 +1,4 @@
-  # 👋 Olá, bom te ver por aqui! ❤
+  # 👋 Olá, bom ter você por aqui! ❤
 
   <img src="hugo-gif.gif" alt="hugo-gif" width="25%" align="right" />
   <div>
