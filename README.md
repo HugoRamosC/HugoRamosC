@@ -16,6 +16,7 @@
     <li>💻 Atualmente estudo desenvolvimento Web (Full Stack) na <a href="https://www.betrybe.com/">Trybe</a>, onde já conclui:<br>
         <a href="https://www.credential.net/8b410749-7309-40ec-94d2-3198514a7935#gs.litxqj" target="_blank" rel="noopener">- Módulo de Fundamentos 🥇</a><br>
         <a href="https://www.credential.net/195d13dd-f66e-407b-8ea5-39045ab16ce8#gs.o3je3w" target="_blank" rel="noopener">- Módulo de Front-End 🥇</a><br>
+        <a href="https://www.credential.net/c52a50ca-1649-4784-9dc1-b5c6a0f79850#gs.yxrwo4" target="_blank" rel="noopener">- Módulo de Back-End 🥇</a><br>
     </li>
   </ul><br><br>
   
