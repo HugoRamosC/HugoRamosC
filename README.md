@@ -19,6 +19,7 @@
         <a href="https://www.credential.net/c7b2aa88-7d14-42d2-bcd0-ca17beee1542#gs.2shwlb" target="_blank" rel="noopener">- Módulo de Back-End 🥇</a><br>
         <a href="https://www.credential.net/1aa2c117-d921-4765-aa6e-c1c489af606a#gs.2shnl0" target="_blank" rel="noopener">- Módulo de Ciência da Computação 🥇</a><br>
     </li>
+    <li>💻 Atualmente estou cursando uma graduação em Segurança da Informação na <a href="https://www.famonline.com.br/cursos/seguranca-da-informacao-ead/">FAM</a></li>
   </ul><br><br>
 
 <!-- https://github.com/Ileriayo/markdown-badges -->
